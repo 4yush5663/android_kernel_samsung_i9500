@@ -1,0 +1,1 @@
+# device_samsung_kernel_i9500
